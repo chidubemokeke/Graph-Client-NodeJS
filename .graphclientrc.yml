@@ -1,0 +1,6 @@
+# .graphclientrc.yml
+sources:
+  - name: cryptocoven
+    handler:
+      graphql:
+        endpoint: https://api.thegraph.com/subgraphs/name/chidubemokeke/crypto-coven-trial
